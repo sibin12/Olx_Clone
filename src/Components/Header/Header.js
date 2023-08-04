@@ -1,6 +1,4 @@
 import React, { useContext } from 'react';
-
-
 import './Header.css';
 import OlxLogo from '../../assets/OlxLogo';
 import Search from '../../assets/Search';
